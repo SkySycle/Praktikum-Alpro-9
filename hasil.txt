@@ -1,0 +1,2 @@
+Ini adalah data yang ditulis ke file
+Baris kedua file
